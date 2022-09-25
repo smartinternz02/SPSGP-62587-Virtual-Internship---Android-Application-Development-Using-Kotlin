@@ -1,4 +1,4 @@
-package com.example.groceryapplication
+package com.example.groceryapp
 
 import android.app.Dialog
 import androidx.appcompat.app.AppCompatActivity
